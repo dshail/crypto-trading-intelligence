@@ -117,6 +117,3 @@ gitpython>=3.1.0
 # cudf>=23.08.0
 # cuml>=23.08.0
 # rapids-dependency-file-generator>=1.8.0
-
-# Development Environment
-python>=3.8,<3.12
